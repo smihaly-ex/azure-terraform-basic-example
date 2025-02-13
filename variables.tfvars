@@ -1,0 +1,6 @@
+resource_group_name         = "my-resource-group"
+location                    = "West Europe"
+function_app_name           = "my-linux-function-app"
+storage_account_name        = "mystorageacct1234"
+app_service_plan_name       = "my-linux-plan"
+function_runtime_version    = "dotnet-isolated"

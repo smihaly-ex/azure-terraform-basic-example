@@ -1,5 +1,7 @@
 # How to Use This Setup
 
+In version 4.0 of the Azure Provider, it's required to specify the Azure Subscription ID when configuring a provider instance in your configuration. Set your own subscription ID.
+
 ### Initialize Terraform
 
 ```

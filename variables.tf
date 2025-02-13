@@ -29,3 +29,8 @@ variable "function_worker_runtime" {
   type        = string
   default     = "~4"
 }
+
+variable "subscription_id" {
+  description = "Azure Subscription ID"
+  type        = string
+}
